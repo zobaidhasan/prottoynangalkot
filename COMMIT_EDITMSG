@@ -1,0 +1,34 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	renamed:    prottoy-main/admin-app.js -> admin-app.js
+#	new file:   admin.html
+#	new file:   assets/docs/prottoy-constitution-2nd-edition.pdf
+#	new file:   assets/images/prottoy-logo.png
+#	new file:   clear-data.html
+#	new file:   index.html
+#	new file:   make_md.js
+#	new file:   script.js
+#	new file:   style.css
+#
+# Changes not staged for commit:
+#	deleted:    .env
+#	deleted:    api/gmail.txt
+#	deleted:    prottoy-main/README.md
+#	deleted:    prottoy-main/admin.html
+#	deleted:    prottoy-main/assets/docs/prottoy-constitution-2nd-edition.pdf
+#	deleted:    prottoy-main/assets/images/prottoy-logo.png.png
+#	deleted:    prottoy-main/clear-data.html
+#	deleted:    prottoy-main/index.html
+#	deleted:    prottoy-main/make_md.js
+#	deleted:    prottoy-main/script.js
+#	deleted:    prottoy-main/style.css
+#
